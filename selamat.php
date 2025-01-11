@@ -1,4 +1,4 @@
 <?php
-$kata = "semangat siang kawan";
+$kata = "semangat siang kawan,jangan lupa makan kawan";
 echo $kata;
 ?>
