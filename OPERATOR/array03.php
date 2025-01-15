@@ -1,5 +1,5 @@
 <?php
-$siswa =[
+$siswa = [
     "nama" => "susilo",
     "kelas" => 11,
     "ngelamar" => [
